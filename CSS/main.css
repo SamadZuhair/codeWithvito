@@ -161,10 +161,10 @@ nav ul li {
     width: 97%;
   }
   nav .brand span {
-    font-size: 5pt;
+    font-size: 10pt;
     margin-left: 35%;
     position: relative;
-    top: -30px;
+    top: -35px;
   }
   nav ul {
     padding: 10% 0;
