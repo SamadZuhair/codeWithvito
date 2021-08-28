@@ -148,6 +148,10 @@ nav ul li {
 }
 
 @media (max-width: 767px) {
+  .body2 .contener img:hover {
+    transform: scale(1.4) !important;
+    transition: all ease-in-out 0.5s;
+  }
   nav .brand {
     width: 40%;
   }
