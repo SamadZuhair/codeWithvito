@@ -10,7 +10,7 @@ window.onload = function () {
     if (i == mytext.length) {
       clearInterval(typeWriter);
     }
-  }, 200);
+  }, 100);
 };
 
 let bot = document.getElementById("submit");
