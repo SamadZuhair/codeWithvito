@@ -77,6 +77,11 @@ nav ul li {
   color: #f6f6f6;
   font-weight: 600;
 }
+
+nav ul li:nth-child(4) {
+  text-decoration: none;
+  color: #f6f6f6;
+}
 /* nav End */
 
 /* home start */
